@@ -5,7 +5,7 @@
 # ScreenShots
 
 Version 0.49.32
-![Cartoon v0.49.32]([https://raw.github.com/blendman/agkvectordrawing/blob/main/images/agk_vectordrawing0.49.32.jpg](https://raw.githubusercontent.com/blendman/agkvectordrawing/main/images/agk_vectordrawing0.49.32.jpg))
+![AVD v0.49.32](https://raw.githubusercontent.com/blendman/agkvectordrawing/main/images/agk_vectordrawing0.49.32.jpg)
 
 # Download
 https://github.com/blendman/agkvectordrawing/tree/main/release
